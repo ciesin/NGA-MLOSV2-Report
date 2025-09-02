@@ -1,1 +1,11 @@
 NGA-MLOSV2-Report.code-workspace
+
+figs/*
+
+data/*
+
+tables/*
+.Rhistory
+footer.html
+index.css
+mlos-harmonization-summary.Rmd
